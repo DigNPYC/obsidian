@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读笔记/思考方式/卡片笔记写作法.md",
+                "file": "日记/2023-02-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读笔记/思考方式/卡片笔记写作法.md",
+                "file": "日记/2023-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读笔记/思考方式/卡片笔记写作法.md",
+                "file": "日记/2023-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读笔记/思考方式/卡片笔记写作法.md"
+                "file": "日记/2023-02-15.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3ce9398f499e0b5e",
+  "active": "8595993247c84fef",
   "lastOpenFiles": [
-    "阅读笔记/电子书/卡片笔记写作法电子版.pdf",
     "阅读笔记/思考方式/卡片笔记写作法.md",
+    "阅读笔记/电子书/卡片笔记写作法电子版.pdf",
     "卡片笔记写作法电子版高清可复制版.pdf.md",
     "卡片笔记写作法电子版高清可复制版.pdf",
     "未命名.canvas",
