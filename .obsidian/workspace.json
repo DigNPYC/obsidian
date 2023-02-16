@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d9917a1dde30d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-02-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +169,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3ce9398f499e0b5e",
+  "active": "8d9917a1dde30d41",
   "lastOpenFiles": [
-    "日记/2023-02-16.md",
     "日记/2023-02-15.md",
+    "日记/2023-02-16.md",
+    "conflict-files-obsidian-git.md",
     "阅读笔记/思考方式/卡片笔记写作法.md",
     "阅读笔记/电子书/卡片笔记写作法电子版.pdf",
     "卡片笔记写作法电子版高清可复制版.pdf.md",
