@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "456f9171ec96c601",
+    "id": "6c814a0d5e5ef891",
     "type": "split",
     "children": [
       {
-        "id": "cec97ee46eecd592",
+        "id": "a1035813475a4634",
         "type": "tabs",
         "children": [
           {
-            "id": "3ce9398f499e0b5e",
+            "id": "d6fcc62d607c16aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-02-15.md",
+                "file": "编程知识/Netty/NIO基础.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c140d2286188a8b",
+    "id": "f0bbc7ac7c964d4f",
     "type": "split",
     "children": [
       {
-        "id": "932f0dec240784e5",
+        "id": "600c24957e077dee",
         "type": "tabs",
         "children": [
           {
-            "id": "8595993247c84fef",
+            "id": "d99bd06e1e84fcd0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +43,7 @@
             }
           },
           {
-            "id": "d3d21a8184c02346",
+            "id": "51cf2dbfe47f4420",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +58,7 @@
             }
           },
           {
-            "id": "b750b47c8798b25e",
+            "id": "4e493b123612b60c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
-    "id": "8492bf11a40f986e",
+    "id": "9501b4798f9483cd",
     "type": "split",
     "children": [
       {
-        "id": "9beb8a78154b717d",
+        "id": "f78532b19b541a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1f0e4bd62a2681",
+            "id": "9939256eabdb9f6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-02-15.md",
+                "file": "编程知识/Netty/NIO基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "8ace025636c1669d",
+            "id": "daad00662be12450",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-02-15.md",
+                "file": "编程知识/Netty/NIO基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c87d8305164cdcb2",
+            "id": "ed7c10075e46fdc9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,29 +120,21 @@
             }
           },
           {
-            "id": "d88c108f393341d9",
+            "id": "241089647d89c468",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-02-15.md"
+                "file": "编程知识/Netty/NIO基础.md"
               }
             }
-          },
-          {
-            "id": "9d8612c59aaea0da",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,13 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8595993247c84fef",
+  "active": "d6fcc62d607c16aa",
   "lastOpenFiles": [
-    "阅读笔记/思考方式/卡片笔记写作法.md",
-    "阅读笔记/电子书/卡片笔记写作法电子版.pdf",
-    "卡片笔记写作法电子版高清可复制版.pdf.md",
-    "卡片笔记写作法电子版高清可复制版.pdf",
-    "未命名.canvas",
-    "我的笔记.md"
+    "编程知识/未命名.md",
+    "斑马培训/未命名.md",
+    "未命名.md",
+    "2023-02-14.md",
+    "编程知识/数据结构与算法/空间复杂度.md",
+    "阅读/思维/卡片写作法/未命名.canvas",
+    "阅读/思维/卡片写作法/卢曼卡片.md",
+    "阅读/思维/卡片写作法/必要难度.md",
+    "阅读/电子书/卡片笔记写作法电子版.pdf",
+    "阅读/思维/卡片写作法/元认知.md"
   ]
 }
