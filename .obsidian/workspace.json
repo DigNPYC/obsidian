@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程知识/测试培训/2月17日.md",
+                "file": "编程知识/软件功能测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/测试培训/2月17日.md",
+                "file": "编程知识/软件功能测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识/测试培训/2月17日.md",
+                "file": "编程知识/软件功能测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程知识/测试培训/2月17日.md"
+                "file": "编程知识/软件功能测试.md"
               }
             }
           },
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +169,7 @@
   },
   "active": "23113117a2990e1f",
   "lastOpenFiles": [
+    "编程知识/测试培训/2月17日.md",
     "编程知识/软件功能测试.md",
     "日记/2023-02-16.md",
     "编程知识/Netty/NIO基础.md",
@@ -177,7 +178,6 @@
     "Pasted image 20230216082757.png",
     "README.md",
     "2023-02-16.md",
-    "日记/2023-02-15.md",
-    "阅读笔记/思考方式/卡片笔记写作法.md"
+    "日记/2023-02-15.md"
   ]
 }
