@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程知识/软件功能测试.md",
+                "file": "编程知识/测试培训/软件功能测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程知识/软件功能测试.md",
+                "file": "编程知识/测试培训/软件功能测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/软件功能测试.md",
+                "file": "编程知识/测试培训/软件功能测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识/软件功能测试.md",
+                "file": "编程知识/测试培训/软件功能测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程知识/软件功能测试.md"
+                "file": "编程知识/测试培训/软件功能测试.md"
               }
             }
           },
@@ -167,10 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23113117a2990e1f",
+  "active": "8595993247c84fef",
   "lastOpenFiles": [
     "编程知识/测试培训/2月17日.md",
-    "编程知识/软件功能测试.md",
+    "编程知识/测试培训/软件功能测试.md",
     "日记/2023-02-16.md",
     "编程知识/Netty/NIO基础.md",
     "未命名.canvas",
