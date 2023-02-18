@@ -11,11 +11,10 @@
             "id": "d53053cdf9c6e997",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "编程知识/测试培训/软件功能测试.md",
-                "mode": "source",
-                "source": false
+                "file": "日记/图片/640 1.png",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/测试培训/软件功能测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识/测试培训/软件功能测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "编程知识/测试培训/软件功能测试.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +151,15 @@
   },
   "active": "d53053cdf9c6e997",
   "lastOpenFiles": [
-    "编程知识/测试培训/未命名.canvas",
+    "阅读/电子书/卡片笔记写作法电子版.pdf",
     "编程知识/测试培训/软件功能测试.md",
-    "编程知识/测试培训/图片/QQ项目_登录模块_功能测试用例.jpg",
-    "编程知识/测试培训/图片/等价类划分练习—验证QQ账号的合法性.jpg",
-    "编程知识/测试培训/2月17日.md",
-    "编程知识/测试培训/().md",
     "日记/2023-02-16.md",
-    "编程知识/Netty/NIO基础.md",
-    "未命名.canvas",
-    "编程知识/Netty/图片/Pasted image 20230216082700.png"
+    "日记/2023-02-15.md",
+    "编程知识/测试培训/2月17日.md",
+    "编程知识/测试培训/未命名.canvas",
+    "编程知识/测试培训/附件/QQ项目_登录模块_功能测试用例.jpg",
+    "编程知识/测试培训/附件/等价类划分练习—验证QQ账号的合法性.jpg",
+    "编程知识/测试培训/().md",
+    "编程知识/Netty/NIO基础.md"
   ]
 }

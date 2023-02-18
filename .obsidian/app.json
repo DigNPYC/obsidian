@@ -1,7 +1,8 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./附件",
   "newFileFolderPath": "",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "shortest"
 }
