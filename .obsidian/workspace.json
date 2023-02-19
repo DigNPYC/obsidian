@@ -163,11 +163,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +179,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d38d9b56f9239d9",
+  "active": "fd09a102ce990ce4",
   "lastOpenFiles": [
     "编程知识/测试培训/黑马软件测试培训/第一天.md",
     "编程知识/测试培训/黑马软件测试培训/第二天.md",
