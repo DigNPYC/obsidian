@@ -35,11 +35,10 @@
             "id": "4d38d9b56f9239d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "编程知识/测试培训/黑马软件测试培训/第二天.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/测试培训/黑马软件测试培训/第二天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识/测试培训/黑马软件测试培训/第二天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "编程知识/测试培训/黑马软件测试培训/第二天.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,10 +174,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd09a102ce990ce4",
+  "active": "4d38d9b56f9239d9",
   "lastOpenFiles": [
-    "编程知识/测试培训/黑马软件测试培训/第一天.md",
     "编程知识/测试培训/黑马软件测试培训/第二天.md",
+    "编程知识/测试培训/黑马软件测试培训/第一天.md",
     "编程知识/测试培训/未命名.md",
     "编程知识/测试培训/未命名.canvas",
     "编程知识/测试培训/图片/QQ项目_登录模块_功能测试用例.jpg",
