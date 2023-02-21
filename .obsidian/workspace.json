@@ -11,8 +11,12 @@
             "id": "6f28db4781b0eb67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "编程知识/Netty/Netty01-nio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "编程知识/Netty/Netty01-nio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程知识/Netty/Netty01-nio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程知识/Netty/Netty01-nio.md"
+              }
             }
           },
           {
@@ -146,17 +154,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd09a102ce990ce4",
+  "active": "6f28db4781b0eb67",
   "lastOpenFiles": [
+    "编程知识/Netty/Netty02-入门.md",
+    "编程知识/Netty/Netty04-优化与源码.md",
+    "编程知识/Netty/Netty03-进阶.md",
+    "编程知识/Netty/Netty01-nio.md",
+    "编程知识/Netty/NIO基础.md",
     "编程知识/测试培训/黑马软件测试培训/day01课堂笔记.md",
     "编程知识/测试培训/黑马软件测试培训/day02课堂笔记.md",
     "编程知识/测试培训/黑马软件测试培训/day05课堂笔记.md",
     "编程知识/测试培训/黑马软件测试培训/day03课堂笔记.md",
-    "编程知识/测试培训/day02课堂笔记.md",
-    "编程知识/测试培训/黑马软件测试培训/第二天.md",
-    "编程知识/测试培训/黑马软件测试培训/第一天.md",
-    "阅读/电子书/卡片笔记写作法电子版.pdf",
-    "编程知识/测试培训/2月17日.md",
-    "编程知识/测试培训/黑马软件测试培训/QQ项目_登录模块_功能测试用例.jpg.md"
+    "编程知识/测试培训/day02课堂笔记.md"
   ]
 }
