@@ -11,11 +11,10 @@
             "id": "6f28db4781b0eb67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "编程知识/Netty/Netty01-nio.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/Netty/Netty01-nio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识/Netty/Netty01-nio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "编程知识/Netty/Netty01-nio.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +151,15 @@
   },
   "active": "6f28db4781b0eb67",
   "lastOpenFiles": [
+    "编程知识/Netty/Netty01-nio.md",
+    "编程知识/Netty/stream.md",
+    "编程知识/Netty/img/0006.png",
+    "编程知识/Netty/img/0005.png",
+    "编程知识/Netty/img/0004.png",
+    "编程知识/Netty/img/0002.png",
+    "编程知识/Netty/img/0001.png",
     "编程知识/Netty/Netty02-入门.md",
     "编程知识/Netty/Netty04-优化与源码.md",
-    "编程知识/Netty/Netty03-进阶.md",
-    "编程知识/Netty/Netty01-nio.md",
-    "编程知识/Netty/NIO基础.md",
-    "编程知识/测试培训/黑马软件测试培训/day01课堂笔记.md",
-    "编程知识/测试培训/黑马软件测试培训/day02课堂笔记.md",
-    "编程知识/测试培训/黑马软件测试培训/day05课堂笔记.md",
-    "编程知识/测试培训/黑马软件测试培训/day03课堂笔记.md",
-    "编程知识/测试培训/day02课堂笔记.md"
+    "编程知识/Netty/Netty03-进阶.md"
   ]
 }
